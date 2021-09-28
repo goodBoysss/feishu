@@ -3,7 +3,7 @@
 
 # composer引入包
 ```shell
-composer require php-feishu/robot-msg
+composer require feishu/robot
 ```
 
 
