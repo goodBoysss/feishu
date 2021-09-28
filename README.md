@@ -7,7 +7,7 @@
 * PHP >= 5.6
 
 
-## composer引入包
+## 使用方法（composer包）
 ```shell
 composer require feishu/robot
 ```
