@@ -1,6 +1,12 @@
 # 飞书机器人消息推送
 飞书机器人消息推送，支持文本，卡片，图片等类型。支持单次推送多个机器人
 
+
+# 环境要求
+
+* PHP >= 5.6
+
+
 # composer引入包
 ```shell
 composer require feishu/robot
